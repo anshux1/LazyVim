@@ -14,7 +14,7 @@ This repository contains my personal Neovim configuration based on [LazyVim](htt
 To use this configuration, clone the repository into your Neovim configuration directory:
 
 ```sh
-git clone https://github.com/anshux1/LazyVim ~/.config/nvim
+git clone git@github.com:anshux1/LazyVim.git ~/.config/nvim
 ```
 
 Then, open Neovim and let LazyVim install the required plugins automatically:
